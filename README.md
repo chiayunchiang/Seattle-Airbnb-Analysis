@@ -6,7 +6,8 @@
 - File Description
 - Project Objective
 - Results
-- 
+- Medium Article
+- Licensing and Acknowledgements
 
 ## Installation
 
@@ -63,9 +64,9 @@ To do so, I set up following research questions for further analysis:
 
 - Both location and time period influence prices of listings.   
 - Different neighborhoods in Seattle have different listing price. 
-  Please see the choropleth map: Mean price in Seattle.html
+  Please see the choropleth map: [Mean price in Seattle.html](https://github.com/chiayunchiang/Seattle-Airbnb-Analysis/blob/master/Mean%20price%20in%20Seattle.html)     
 - I created a reference table for Airbnb hosts to set price based on their listing location. 
-  Please see the reference table: Reference table for price setting.csv
+  Please see the reference table: [Reference table for price setting.csv](https://github.com/chiayunchiang/Seattle-Airbnb-Analysis/blob/master/Reference%20table%20for%20price%20setting.csv)    
 - It is suggest to raise listing price from June to August and lower listing price from January to March.
 - Saturday and Friday is the two high demand days in a whole weeks. It is suggest to raise listing price during these two days.
 - Holidays have no specific influence on the price. As a result, there's no need to adjust price during holidays.
@@ -79,7 +80,7 @@ Please visit [my Medium article](https://medium.com/@chiayun_33/suggestions-for-
 
 ## Licensing and Acknowledgements
 
-Thanks to the open source listed below: 
+Thanks to the open sources listed below, which provides the data I need in this project:   
 
 - [Kaggle-Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 - [Seattle neighborhoods boundary](https://github.com/seattleio/seattle-boundaries-data/blob/master/data/neighborhoods.geojson)
