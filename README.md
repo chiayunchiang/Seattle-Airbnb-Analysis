@@ -13,7 +13,8 @@
 
 In this project, I used Juypter Notebook and the package below to do data analysis.    
      
-- pandas = 0.25.1    
+- pandas = 0.25.1 
+- numpy = 1.16.4   
 - matplotlib = 2.2.4   
 - folium = 0.5.0    
    
